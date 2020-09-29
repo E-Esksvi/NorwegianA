@@ -1,4 +1,5 @@
-#Velkommen
-##Norsk A Portfolio
-###Eskil Gjerde Sviggum
+# Velkommen
+
+**Norsk A Portfolio**
+*Eskil Gjerde Sviggum*
 
